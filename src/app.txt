@@ -1,6 +1,9 @@
 Base Application
 
+API Changed: endpoint updated
+
 UI change: button updated
+
 
 Login feature
 
